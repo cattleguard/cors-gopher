@@ -23,7 +23,7 @@ var (
 )
 
 // initialize seed.  Next several lines stolen from SO post where @icza pulls random strings all together
-// Mucho gracias!
+// Muchas gracias!
 func init() {
 	rand.Seed(time.Now().UnixNano())
 }
